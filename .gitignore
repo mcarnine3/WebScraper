@@ -1,0 +1,13 @@
+/data/
+/redis.db
+.idea/
+.DS_Store
+__pycache__/
+*.py[cod]
+/bin/
+/include/
+/lib/
+/lib64/
+/venv/
+
+*/redis.db
